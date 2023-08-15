@@ -209,8 +209,8 @@ repositories:
     version: humble
   ros2/demos:
     type: git
-    url: https://github.com/ros2/demos.git
-    version: humble
+    url: https://github.com/re-ag/demos.git
+    version: tcl-humble
   ros2/eigen3_cmake_module:
     type: git
     url: https://github.com/ros2/eigen3_cmake_module.git
